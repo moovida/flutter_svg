@@ -5,7 +5,7 @@ version: 0.18.0
 
 dependencies:
   path_drawing: ^0.4.1
-  xml: ^4.2.0
+  xml: ^4.3.0
   vector_math: ^2.0.8
   meta: ^1.1.8
   flutter:
